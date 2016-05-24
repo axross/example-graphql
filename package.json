@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/axross/graphql-example/issues"
   },
-  "homepage": "https://github.com/axross/graphql-example#readme"
+  "homepage": "https://github.com/axross/graphql-example#readme",
+  "dependencies": {
+    "graphql": "0.6.0"
+  }
 }
