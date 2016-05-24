@@ -27,7 +27,7 @@ const RootSchema = new GraphQLSchema({
             id: 'abcdefgh',
             title: 'サンプル記事',
             body: '中身じゃよ？',
-            status: 1,
+            status: 2000,
             publishedAt: 0,
           });
         },
